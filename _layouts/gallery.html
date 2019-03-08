@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <link rel="stylesheet" href="../../css/gallery.css">
+</head>
+<body>
+
+{% for gallery in site.data.galleries %}
+  {% if gallery.id == page.galleryid %}
+    <h2 style="text-align:center">{{ gallery.description }}</h2>
+      <div class="row">
+        {% for image in gallery.images %}
+          <div class="column">
+            <img src="{{ gallery.imagefolder }}/{{ image.name }}" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+          </div>
+
+        {% endfor %}
+      </div>
+
+<div id="myModal" class="modal">
+  <div class="modal-content">
+
+    {% for image in gallery.images %}
+    <div class="mySlides">
+      {% if image.ori == 'h' %}
+      <center>
+      <img class="modal-content-horizontal" src="{{ gallery.imagefolder }}/{{ image.name }}" style="height:100%">
+      </center>
+      {% endif %}
+      {% if image.ori == 'v' %}
+      <center>
+      <img class="modal-content-vertical" src="{{ gallery.imagefolder }}/{{ image.name }}" style="width:100%">
+      </center>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  <div>
+
+    <center>
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <span class="close cursor" onclick="closeModal()">&times;</span>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </center>
+  </div>
+</div>
+  {% endif %}
+{% endfor %}
+
+<script src="../../js/gallery.js"> </script>
+
+</body>
+</html>

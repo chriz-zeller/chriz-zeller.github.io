@@ -1,0 +1,16 @@
+- id: 20190223marin
+  name: 2019-02-23-Marín
+  description: Marín 23.02.2019
+  imagefolder: /photos/2019-02-23-marin
+  images:
+  - name: IMG_0957.jpg
+    desc: Fountain
+    ori: v
+- id: 20190211bouzas
+  name: 2019-02-11-Bouzas
+  description: Bouzas 11.02.2019
+  imagefolder: /photos/2019-02-11-bouzas
+  images:
+  - name: sunset.jpg
+    desc: Sunset
+    ori: h
