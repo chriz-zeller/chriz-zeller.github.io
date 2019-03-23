@@ -10,46 +10,40 @@ layout: default
 <body>
 
 {% for gallery in site.data.galleries %}
-  {% if gallery.id == page.galleryid %}
     <h2 style="text-align:center">{{ gallery.description }}</h2>
-      <div class="row">
+      <section id="photos">
         {% for image in gallery.images %}
-          <div class="column">
-            <img src="{{ gallery.imagefolder }}/{{ image.name }}" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
-          </div>
-
+        <img style="photos" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="openModal();currentSlide({% decrement img_i %})" class="hover-shadow cursor">
         {% endfor %}
-      </div>
+      </section>
+<br/>
+<hr>
+
+{% endfor %}
 
 <div id="myModal" class="modal">
-  <div class="modal-content">
-
+  <div>
+  {% for gallery in site.data.galleries %}
     {% for image in gallery.images %}
     <div class="mySlides">
       {% if image.ori == 'h' %}
       <center>
-      <img class="modal-content-horizontal" src="{{ gallery.imagefolder }}/{{ image.name }}" style="height:100%">
+      <img class="modal-content-horizontal" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
       </center>
       {% endif %}
       {% if image.ori == 'v' %}
       <center>
-      <img class="modal-content-vertical" src="{{ gallery.imagefolder }}/{{ image.name }}" style="width:100%">
+      <img class="modal-content-vertical" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
       </center>
       {% endif %}
     </div>
     {% endfor %}
-  </div>
-  <div>
-
-    <center>
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    </div>
     <span class="close cursor" onclick="closeModal()">&times;</span>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </center>
+    <div>
+  {% endfor %}
   </div>
 </div>
-  {% endif %}
-{% endfor %}
 
 <script src="../../js/gallery.js"> </script>
 

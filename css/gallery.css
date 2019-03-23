@@ -1,28 +1,39 @@
-* {
-  box-sizing: border-box;
+/* Photos preview */
+
+#photos {
+  line-height:   0;
+  column-count:  3;
+  column-gap:    0px;
 }
 
-.row > .column {
-  padding: 8px 8px;
+#photos img {
+  width: 100% !important;
+  height: auto !important;
 }
 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+@media (max-width: 600px) {
+  #photos {
+  column-count:         2;
+  }
+}
+@media (max-width: 400px) {
+  #photos {
+  column-count:         1;
+  }
 }
 
-.column {
-  float: left;
-  width: 25%;
+#photos:hover,
+#photos:focus {
+  cursor: pointer;
 }
 
 /* The Modal (background) */
+
 .modal {
   display: none;
   position: fixed;
   z-index: 1;
-  padding-top: 100px;
+  padding-top: 0%;
   left: 0;
   top: 0;
   width: 100%;
@@ -31,70 +42,51 @@
   background-color: black;
 }
 
-/* Modal Content */
-.modal-content {
-  background-color: black ;
-}
-
 /* Horizontal Modal Content */
 .modal-content-horizontal {
-  height: 50%;
-  max-height: 70vh;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  height: 98%;
+  max-height: 98vh;
   width: auto;
 }
 
 /* Vertical Modal Content */
 .modal-content-vertical {
-  width: 50%;
-  max-width: 60vw;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 98%;
+  max-width: 98vh;
   height: auto;
+}
+
+.modal-content-horizontal:hover,
+.modal-content-horizontal:focus {
+  cursor: pointer;
+}
+
+.modal-content-vertical:hover,
+.modal-content-vertical:focus {
+  cursor: pointer;
 }
 
 /* The Close Button */
 .close {
-  color: white;
-  font-size: 20px;
+  color: #f1f1f1;
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  font-size: 40px;
   font-weight: bold;
+  transition: 0.3s;
 }
 
 .close:hover,
 .close:focus {
-  color: #999;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-.mySlides {
-  display: none;
-}
-
-.cursor {
-  cursor: pointer;
-}
-
-/* Next & previous buttons */
-.prev,
-.next {
-  cursor: pointer;
-  color: white;
-  font-weight: bold;
-  font-size: 20px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-  -webkit-user-select: none;
-  margin: 5%;
-}
-
-/* Position the "next button" to the right */
-.next {
-  right: 0;
-  border-radius: 3px 0 0 3px;
-}
-
-/* On hover, add a black background color with a little bit see-through */
-.prev:hover,
-.next:hover {
   color: #999;
   text-decoration: none;
   cursor: pointer;
