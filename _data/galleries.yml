@@ -3,14 +3,22 @@
   description: Marín 23.02.2019
   imagefolder: /photos/2019-02-23-marin
   images:
-  - name: IMG_0957.jpg
-    desc: Fountain
+  - name: IMG_0901.jpg
     ori: v
+  - name: IMG_0950.jpg
+    ori: v
+  - name: IMG_0957.jpg
+    ori: v
+  - name: IMG_0959.jpg
+    ori: h
+  - name: IMG_0950-bw.jpg
+    ori: v
+  - name: IMG_0967.jpg
+    ori: h
 - id: 20190211bouzas
   name: 2019-02-11-Bouzas
   description: Bouzas 11.02.2019
   imagefolder: /photos/2019-02-11-bouzas
   images:
   - name: sunset.jpg
-    desc: Sunset
     ori: h
