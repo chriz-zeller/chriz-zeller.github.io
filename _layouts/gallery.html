@@ -9,17 +9,13 @@ layout: default
 </head>
 <body>
 
+<section id="photos">
 {% for gallery in site.data.galleries %}
-    <h2 style="text-align:center">{{ gallery.description }}</h2>
-      <section id="photos">
-        {% for image in gallery.images %}
-        <img style="photos" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="openModal();currentSlide({% decrement img_i %})" class="hover-shadow cursor">
-        {% endfor %}
-      </section>
-<br/>
-<hr>
-
+   {% for image in gallery.images %}
+   <img style="photos" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="openModal();currentSlide({% decrement img_i %})" class="hover-shadow cursor">
+   {% endfor %}
 {% endfor %}
+</section>
 
 <div id="myModal" class="modal">
   <div>
