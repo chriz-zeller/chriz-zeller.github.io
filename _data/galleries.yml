@@ -1,15 +1,21 @@
+- id: 20190426bouzas
+  description: Bouzas 26.04.2019
+  imagefolder: /photos/2019-04-26-bouzas
+  images:
+    - name: IMG_2146.jpg
+      ori: h
 - id: 20190423bouzas
   description: Bouzas 23.04.2019
   imagefolder: /photos/2019-04-23-bouzas
   images:
     - name: IMG_2077.jpg
-      ori: h
+      ori: v
 - id: 20190417lightpainting
   description: Lightpainting 17.04.2019
   imagefolder: /photos/2019-04-17-lightpainting
   images:
     - name: IMG_1933.jpg
-      ori: h
+      ori: v
 - id: 20190405bouzas
   description: Castrelos 06.04.2019
   imagefolder: /photos/2019-04-06-castrelos
