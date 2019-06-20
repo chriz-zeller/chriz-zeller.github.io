@@ -1,3 +1,9 @@
+- id: 20190615salvatierrademino
+  description: Salvatierra de Miño 15.06.2019
+  imagefolder: /photos/2019-06-15-salvatierra-de-mino
+  images:
+    - name: IMG_2555.jpg
+      ori: v
 - id: 20190523fundacionsales
   description: Fundación Sales 23.05.2019
   imagefolder: /photos/2019-05-23-fundacion-sales
