@@ -2,6 +2,8 @@
   description: Fundación Sales 23.05.2019
   imagefolder: /photos/2019-05-23-fundacion-sales
   images:
+    - name: IMG_2523.jpg
+      ori: v
     - name: IMG_2484.jpg
       ori: v
 - id: 20190522alcabre
