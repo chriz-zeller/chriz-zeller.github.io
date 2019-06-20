@@ -4,6 +4,8 @@
   images:
     - name: IMG_2555.jpg
       ori: v
+    - name: IMG_2547.jpg
+      ori: h
 - id: 20190523fundacionsales
   description: Fundación Sales 23.05.2019
   imagefolder: /photos/2019-05-23-fundacion-sales
