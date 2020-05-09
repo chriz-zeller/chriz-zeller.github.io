@@ -1,0 +1,18 @@
+- id: 20190615stars
+  description: Monteferro 20.04.2019
+  imagefolder: /art/2019-04-20-monteferro
+  images:
+    - name: IMG_2073-0.jpg
+    - name: IMG_2073-2.jpg
+    - name: IMG_2073-3.jpg
+    - name: IMG_2073-4.jpg
+    - name: IMG_2073-5.jpg
+    - name: IMG_2073-6.jpg
+    - name: IMG_2073-7.jpg
+    - name: IMG_2073-8.jpg
+- id: 20190615circles
+  description: Monteferro 20.04.2019
+  imagefolder: /art/2019-04-20-monteferro
+  images:
+    - name: IMG_2073-0.jpg
+    - name: IMG_2073-1.jpg
