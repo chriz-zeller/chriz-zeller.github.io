@@ -22,6 +22,12 @@
   images:
     - name: IMG_3070.jpg
       ori: v
+- id: 20190716alcabre
+  description: Alcabre 16.07.2019
+  imagefolder: /photos/2019-07-16-alcabre
+  images:
+    - name: IMG_2702.jpg
+      ori: v
 - id: 20190615salvatierrademino
   description: Salvatierra de Miño 15.06.2019
   imagefolder: /photos/2019-06-15-salvatierra-de-mino
