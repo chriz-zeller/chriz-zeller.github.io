@@ -1,3 +1,9 @@
+- id: 20200702zoebingen
+  description: Zoebingen 02.07.2020
+  imagefolder: /photos/2020-07-02-zoebingen
+  images:
+    - name: IMG_3650.jpg
+      ori: v
 - id: 20200215bouzas
   description: Bouzas 15.02.2020
   imagefolder: /photos/2020-02-15-bouzas
