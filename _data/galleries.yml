@@ -4,6 +4,12 @@
   images:
     - name: IMG_3763.jpg
       ori: v
+- id: 20200707zoebingen
+  description: Zoebingen 07.07.2020
+  imagefolder: /photos/2020-07-07-zoebingen
+  images:
+    - name: IMG_3768.jpg
+      ori: v
 - id: 20200702zoebingen
   description: Zoebingen 02.07.2020
   imagefolder: /photos/2020-07-02-zoebingen
