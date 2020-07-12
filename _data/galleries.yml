@@ -1,3 +1,33 @@
+- id: 20200712goldberg
+  description: Goldberg 12.07.2020
+  imagefolder: /photos/2020-07-12-goldberg
+  images:
+    - name: IMG_3848.jpg
+      ori: v
+- id: 20200712goldberg
+  description: Goldberg 12.07.2020
+  imagefolder: /photos/2020-07-12-goldberg
+  images:
+    - name: IMG_3835.jpg
+      ori: v
+- id: 20200712goldberg
+  description: Goldberg 12.07.2020
+  imagefolder: /photos/2020-07-12-goldberg
+  images:
+    - name: IMG_3832.jpg
+      ori: v
+- id: 20200712goldberg
+  description: Goldberg 12.07.2020
+  imagefolder: /photos/2020-07-12-goldberg
+  images:
+    - name: IMG_3827.jpg
+      ori: v
+- id: 20200712goldberg
+  description: Goldberg 12.07.2020
+  imagefolder: /photos/2020-07-12-goldberg
+  images:
+    - name: IMG_3807.jpg
+      ori: v
 - id: 20200709zoebingen
   description: Zoebingen 09.07.2020
   imagefolder: /photos/2020-07-09-zoebingen
