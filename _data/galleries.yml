@@ -2,6 +2,12 @@
   description: Zoebingen 25.07.2020
   imagefolder: /photos/2020-07-25-zoebingen
   images:
+    - name: IMG_3958.jpg
+      ori: v
+- id: 20200725zoebingen
+  description: Zoebingen 25.07.2020
+  imagefolder: /photos/2020-07-25-zoebingen
+  images:
     - name: IMG_3955.jpg
       ori: h
 - id: 20200725zoebingen
