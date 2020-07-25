@@ -1,3 +1,9 @@
+- id: 20200725zoebingen
+  description: Zoebingen 25.07.2020
+  imagefolder: /photos/2020-07-25-zoebingen
+  images:
+    - name: IMG_4043.jpg
+      ori: v
 - id: 20200712goldberg
   description: Goldberg 12.07.2020
   imagefolder: /photos/2020-07-12-goldberg
