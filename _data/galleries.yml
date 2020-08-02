@@ -1,3 +1,9 @@
+- id: 20200802ofnetheolen
+  description: Ofnethölen 02.08.2020
+  imagefolder: /photos/2020-08-02-ofnethoelen
+  images:
+    - name: IMG_4071.jpg
+      ori: v
 - id: 20200725zoebingen
   description: Zoebingen 25.07.2020
   imagefolder: /photos/2020-07-25-zoebingen
