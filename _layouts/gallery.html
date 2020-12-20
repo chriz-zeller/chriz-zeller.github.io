@@ -21,18 +21,14 @@ layout: default
   <div>
   {% for gallery in site.data.galleries %}
     {% for image in gallery.images %}
-    <div class="mySlides">
+    <div class="mySlides"><center>
       {% if image.ori == 'h' %}
-      <center>
       <img class="modal-content-horizontal" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
-      </center>
       {% endif %}
       {% if image.ori == 'v' %}
-      <center>
       <img class="modal-content-vertical" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
-      </center>
       {% endif %}
-    </div>
+      </center></div>
     {% endfor %}
     </div>
     <span class="close cursor" onclick="closeModal()">&times;</span>
