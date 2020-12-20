@@ -1,0 +1,122 @@
+/*
+ * Copyright:
+ *   2020 - Christina Zeller - All Rights Reserved.
+ */
+
+body {
+  background-color: rgb(0, 0, 0);
+  color: rgb(251, 254, 249);
+  font-family: dancing, noto;
+  font-size: large;
+}
+
+@font-face {
+   font-family: "dancing";
+   src: url("../font/lobstertwo.ttf");
+}
+
+@font-face {
+   font-family: "noto";
+   src: url("../font/noto.ttf");
+}
+
+a:hover {
+   color: #1756a9;
+}
+
+a {
+   color: #2a7ae2;
+   text-decoration: none;
+}
+
+/* Game */
+
+#board td {
+  background-color: rgb(130, 132, 137);
+  width: 2em;
+  height: 2em;
+  border-radius: 6px;
+}
+
+#board .goal {
+  background-color: rgb(170, 0, 128);
+}
+
+#board .pin {
+  background-color: rgb(137, 252, 0);
+}
+
+#board .trap {
+  background-color: rgb(251, 245, 249);
+  border-radius: 0px;
+}
+
+#board .obstacle {
+  background-color: transparent;
+}
+
+#board .mirrow {
+  background-color: transparent;
+  border: none;
+}
+
+button {
+  background: transparent;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(251, 254, 249);
+  width: 2em;
+  height: 2em;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: dancing, noto;
+}
+
+*:focus {
+  outline: none;
+}
+
+#table-menu td {
+  width: 3.5em;
+  height: 4em;
+}
+
+.lvl-button {
+  width: 4em;
+  height: 4em;
+  font-size: 1em;
+  color: rgb(130, 132, 137);
+}
+
+.bttns-button {
+  font-size: 10px;
+}
+
+.perfect {
+  color: rgb(251, 254, 249);
+}
+
+.play {
+  border-radius: 6px;
+  background-color: rgb(170, 0, 128);
+}
+.solved {
+  border-radius: 6px;
+  background-color: rgb(137, 252, 0);
+}
+
+.highlight {
+  color: rgb(137, 252, 0);
+}
+
+.unplayed {
+  color: rgb(170, 0, 128);
+}
+
+/* Page */
+
+footer {
+  position: fixed;
+  bottom: 0;
+  background-color: rgb(0, 0, 0);
+}
