@@ -1,3 +1,27 @@
+- id: 20220213bamberg
+  description: Bamberg Hauptsmoor 13.02.2021
+  imagefolder: /photos/2021-02-13-bamberg-hauptsmoor
+  images:
+    - name: IMG_4223.jpg
+      ori: h
+    - name: IMG_4220.jpg
+      ori: v
+    - name: IMG_4218.jpg
+      ori: v
+    - name: IMG_4217.jpg
+      ori: v
+    - name: IMG_4202.jpg
+      ori: h
+    - name: IMG_4197.jpg
+      ori: h
+    - name: IMG_4193.jpg
+      ori: h
+    - name: IMG_4192.jpg
+      ori: v
+    - name: IMG_4190.jpg
+      ori: h
+    - name: IMG_4181.jpg
+      ori: h
 - id: 20220212bamberg
   description: Bamberg Hain 12.02.2021
   imagefolder: /photos/2021-02-12-bamberg-hain
