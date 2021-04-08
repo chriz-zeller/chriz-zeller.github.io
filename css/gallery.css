@@ -1,29 +1,18 @@
 /* Photos preview */
 
-#photos {
-  line-height:   0;
-  column-count:  3;
-  column-gap:    0px;
-}
-
-#photos img {
-  width: 100% !important;
-  height: auto !important;
-}
-
-@media (max-width: 600px) {
-  #photos {
-  column-count:         2;
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 5px;
+  align-items: center;
   }
-}
-@media (max-width: 400px) {
-  #photos {
-  column-count:         1;
-  }
+
+.grid img {
+  max-width: 100%;
 }
 
-#photos:hover,
-#photos:focus {
+.grid img:hover,
+.grid img:focus {
   cursor: pointer;
 }
 
