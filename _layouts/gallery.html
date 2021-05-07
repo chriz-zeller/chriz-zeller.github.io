@@ -12,7 +12,7 @@ layout: default
 <section class="grid">
 {% for gallery in site.data.galleries %}
    {% for image in gallery.images %}
-   <img src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="openModal();currentSlide({% decrement img_i %})" class="hover-shadow cursor">
+   <img loading="lazy" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="openModal();currentSlide({% decrement img_i %})" class="hover-shadow cursor">
    {% endfor %}
 {% endfor %}
 </section>
@@ -23,10 +23,10 @@ layout: default
     {% for image in gallery.images %}
     <div class="mySlides"><center>
       {% if image.ori == 'h' %}
-      <img class="modal-content-horizontal" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
+      <img loading="lazy" class="modal-content-horizontal" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
       {% endif %}
       {% if image.ori == 'v' %}
-      <img class="modal-content-vertical" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
+      <img loading="lazy" class="modal-content-vertical" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
       {% endif %}
       </center></div>
     {% endfor %}
