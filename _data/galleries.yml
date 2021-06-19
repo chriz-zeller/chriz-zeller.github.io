@@ -1,3 +1,25 @@
+- id: 20210619bamberg
+  description: Bamberg 19.06.2021
+  imagefolder: /photos/2021-06-19-bamberg
+  images:
+    - name: IMG_4299-b.jpg
+      ori: v
+    - name: IMG_4299-a.jpg
+      ori: v
+    - name: IMG_4295.jpg
+      ori: v
+    - name: IMG_4292.jpg
+      ori: h
+    - name: IMG_4288.jpg
+      ori: v
+    - name: IMG_4281.jpg
+      ori: v
+    - name: IMG_4273.jpg
+      ori: v
+    - name: IMG_4263.jpg
+      ori: v
+    - name: IMG_4259.jpg
+      ori: v
 - id: 20210329bamberg
   description: Bamberg 29.03.2021
   imagefolder: /photos/2021-03-29-bamberg
