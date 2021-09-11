@@ -1,3 +1,19 @@
+- id: 20210910bamberg
+  description: Bamberg Hauptsmoor 10.09.2021
+  imagefolder: /photos/2021-09-10-bamberg-hauptsmoor
+  images:
+    - name: IMG_4387.jpg
+      ori: v
+    - name: IMG_4376.jpg
+      ori: v
+    - name: IMG_4363.jpg
+      ori: v
+    - name: IMG_4356.jpg
+      ori: v
+    - name: IMG_4344.jpg
+      ori: v
+    - name: IMG_4343.jpg
+      ori: v
 - id: 20210903bamberg
   description: Bamberg 03.09.2021
   imagefolder: /photos/2021-09-03-bamberg
