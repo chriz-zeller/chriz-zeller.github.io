@@ -1,3 +1,9 @@
+- id: 20210925bamberg
+  description: Bamberg 25.09.2021
+  imagefolder: /photos/2021-09-25-bamberg
+  images:
+    - name: IMG_4393.jpg
+      ori: v
 - id: 20210910bamberg
   description: Bamberg Hauptsmoor 10.09.2021
   imagefolder: /photos/2021-09-10-bamberg-hauptsmoor
