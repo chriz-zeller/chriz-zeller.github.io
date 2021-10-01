@@ -11,22 +11,22 @@ body {
 }
 
 @font-face {
-   font-family: "dancing";
-   src: url("../font/lobstertwo.ttf");
+  font-family: "dancing";
+  src: url("../fonts/lobstertwo.ttf");
 }
 
 @font-face {
-   font-family: "noto";
-   src: url("../font/noto.ttf");
+  font-family: "noto";
+  src: url("../fonts/noto.ttf");
 }
 
 a:hover {
-   color: #1756a9;
+  color: #1756a9;
 }
 
 a {
-   color: #2a7ae2;
-   text-decoration: none;
+  color: #2a7ae2;
+  text-decoration: none;
 }
 
 /* Game */
