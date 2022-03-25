@@ -1,3 +1,13 @@
+- id: 20220325bopfingen
+  description: Bopfingen 25.03.2022
+  imagefolder: /photos/2022-03-25-bopfingen
+  images:
+    - name: IMG_4467.jpg
+      ori: v
+    - name: IMG_4444.jpg
+      ori: h
+    - name: IMG_4431.jpg
+      ori: v
 - id: 20210925bamberg
   description: Bamberg 25.09.2021
   imagefolder: /photos/2021-09-25-bamberg
