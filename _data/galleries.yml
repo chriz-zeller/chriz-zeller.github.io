@@ -1,3 +1,13 @@
+- id: 20220327neresheim
+  description: Neresheim 27.03.2022
+  imagefolder: /photos/2022-03-27-neresheim
+  images:
+    - name: IMG_4487.jpg
+      ori: v
+    - name: IMG_4479.jpg
+      ori: v
+    - name: IMG_4477.jpg
+      ori: v
 - id: 20220325bopfingen
   description: Bopfingen 25.03.2022
   imagefolder: /photos/2022-03-25-bopfingen
