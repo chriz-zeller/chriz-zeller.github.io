@@ -1,3 +1,11 @@
+- id: 20220329zoebingen
+  description: Zöbingen 29.03.2022
+  imagefolder: /photos/2022-03-29-zoebingen
+  images:
+    - name: IMG_4504.jpg
+      ori: v
+    - name: IMG_4501.jpg
+      ori: h
 - id: 20220327neresheim
   description: Neresheim 27.03.2022
   imagefolder: /photos/2022-03-27-neresheim
