@@ -1,3 +1,57 @@
+- id: 20220402zoebingen
+  description: Zöbingen 02.04.2022
+  imagefolder: /photos/2022-04-02-zoebingen
+  images:
+    - name: IMG_4616.jpg
+      ori: v
+    - name: IMG_4613.jpg
+      ori: v
+    - name: IMG_4592.jpg
+      ori: v
+    - name: IMG_4580.jpg
+      ori: v
+    - name: IMG_4577.jpg
+      ori: v
+    - name: IMG_4576.jpg
+      ori: v
+    - name: IMG_4573.jpg
+      ori: v
+    - name: IMG_4568-1.jpg
+      ori: v
+    - name: IMG_4568.jpg
+      ori: h
+    - name: IMG_4567.jpg
+      ori: v
+    - name: IMG_4563.jpg
+      ori: v
+    - name: IMG_4562.jpg
+      ori: v
+    - name: IMG_4560.jpg
+      ori: v
+    - name: IMG_4549.jpg
+      ori: v
+    - name: IMG_4548.jpg
+      ori: v
+    - name: IMG_4547.jpg
+      ori: v
+    - name: IMG_4545.jpg
+      ori: v
+    - name: IMG_4543.jpg
+      ori: v
+    - name: IMG_4542.jpg
+      ori: v
+    - name: IMG_4541.jpg
+      ori: v
+    - name: IMG_4540.jpg
+      ori: v
+    - name: IMG_4529.jpg
+      ori: v
+    - name: IMG_4527.jpg
+      ori: v
+    - name: IMG_4524.jpg
+      ori: v
+    - name: IMG_4523.jpg
+      ori: v
 - id: 20220329zoebingen
   description: Zöbingen 29.03.2022
   imagefolder: /photos/2022-03-29-zoebingen
