@@ -1,3 +1,33 @@
+- id: 20220509hitland
+  description: Hitland 09.05.2022
+  imagefolder: /photos/2022-05-09-hitland
+  images:
+    - name: IMG_4688.jpg
+      ori: h
+    - name: IMG_4696.jpg
+      ori: v
+    - name: IMG_4714-0.jpg
+      ori: v
+    - name: IMG_4714.jpg
+      ori: v
+- id: 20220508rotte
+  description: Rotte 08.05.2022
+  imagefolder: /photos/2022-05-08-rotte
+  images:
+    - name: IMG_4678.jpg
+      ori: h
+    - name: IMG_4674.jpg
+      ori: v
+- id: 20220507krimpenerwaard
+  description: Krimpenerwaard 07.05.2022
+  imagefolder: /photos/2022-05-07-krimpenerwaard
+  images:
+    - name: IMG_4660.jpg
+      ori: v
+    - name: IMG_4643.jpg
+      ori: v
+    - name: IMG_4636.jpg
+      ori: v
 - id: 20220402zoebingen
   description: Zöbingen 02.04.2022
   imagefolder: /photos/2022-04-02-zoebingen
