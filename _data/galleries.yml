@@ -4,6 +4,12 @@
   images:
     - name: IMG_4798.jpg
       ori: v
+    - name: IMG_4772-1.jpg
+      ori: v
+    - name: IMG_4772.jpg
+      ori: v
+    - name: IMG_4758.jpg
+      ori: v
 - id: 20220509hitland
   description: Hitland 09.05.2022
   imagefolder: /photos/2022-05-09-hitland
