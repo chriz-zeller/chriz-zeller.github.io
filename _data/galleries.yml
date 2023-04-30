@@ -1,3 +1,9 @@
+- id: 20230430sechta
+  description: Sechta 30.04.2023
+  imagefolder: /photos/2023-04-30-sechta
+  images:
+    - name: IMG_4798.jpg
+      ori: v
 - id: 20220509hitland
   description: Hitland 09.05.2022
   imagefolder: /photos/2022-05-09-hitland
