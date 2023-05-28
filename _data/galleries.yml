@@ -1,3 +1,25 @@
+- id: 20230527zoebingen
+  description: Zöbingen 27.05.2023
+  imagefolder: /photos/2023-05-27-zoebingen
+  images:
+    - name: IMG_4835.jpg
+      ori: v
+    - name: IMG_4833.jpg
+      ori: v
+    - name: IMG_4831.jpg
+      ori: h
+    - name: IMG_4830.jpg
+      ori: h
+    - name: IMG_4828.jpg
+      ori: v
+    - name: IMG_4821.jpg
+      ori: v
+    - name: IMG_4818.jpg
+      ori: v
+    - name: IMG_4805.jpg
+      ori: v
+    - name: IMG_4804.jpg
+      ori: v
 - id: 20230430sechta
   description: Sechta 30.04.2023
   imagefolder: /photos/2023-04-30-sechta
