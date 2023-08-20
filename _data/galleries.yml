@@ -1,3 +1,45 @@
+- id: 20230820zoebingen
+  description: Zöbingen 20.08.2023
+  imagefolder: /photos/2023-08-20-zoebingen
+  images:
+    - name: IMG_4890.jpg
+      ori: v
+    - name: IMG_4886.jpg
+      ori: v
+    - name: IMG_4880.jpg
+      ori: v
+    - name: IMG_4876.jpg
+      ori: v
+    - name: IMG_4874.jpg
+      ori: v
+    - name: IMG_4871.jpg
+      ori: v
+    - name: IMG_4870.jpg
+      ori: v
+    - name: IMG_4869.jpg
+      ori: v
+    - name: IMG_4868.jpg
+      ori: v
+    - name: IMG_4866.jpg
+      ori: v
+    - name: IMG_4864.jpg
+      ori: v
+    - name: IMG_4862.jpg
+      ori: v
+    - name: IMG_4860.jpg
+      ori: h
+    - name: IMG_4855.jpg
+      ori: h
+    - name: IMG_4854.jpg
+      ori: v
+    - name: IMG_4851.jpg
+      ori: v
+    - name: IMG_4849.jpg
+      ori: v
+    - name: IMG_4843.jpg
+      ori: v
+    - name: IMG_4841.jpg
+      ori: v
 - id: 20230527zoebingen
   description: Zöbingen 27.05.2023
   imagefolder: /photos/2023-05-27-zoebingen
