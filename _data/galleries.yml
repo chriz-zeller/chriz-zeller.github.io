@@ -1,3 +1,113 @@
+- id: 20240112zoebingen
+  description: Zöbingen 12.01.2024
+  imagefolder: /photos/2024-01-12-zoebingen
+  images:
+    - name: IMG_5188.jpg
+      ori: v
+    - name: IMG_5185.jpg
+      ori: v
+    - name: IMG_5183.jpg
+      ori: v
+    - name: IMG_5181.jpg
+      ori: v
+    - name: IMG_5179.jpg
+      ori: v
+    - name: IMG_5176.jpg
+      ori: v
+    - name: IMG_5175.jpg
+      ori: h
+    - name: IMG_5168.jpg
+      ori: v
+    - name: IMG_5166.jpg
+      ori: v
+    - name: IMG_5161.jpg
+      ori: v
+    - name: IMG_5149.jpg
+      ori: h
+    - name: IMG_5148.jpg
+      ori: v
+    - name: IMG_5141.jpg
+      ori: v
+    - name: IMG_5123.jpg
+      ori: v
+    - name: IMG_5106.jpg
+      ori: v
+- id: 20230916doldersummerveld
+  description: Doldersummerveld 16.09.2023
+  imagefolder: /photos/2023-09-16-doldersummerveld
+  images:
+    - name: IMG_5100.jpg
+      ori: v
+    - name: IMG_5098.jpg
+      ori: v
+    - name: IMG_5083.jpg
+      ori: v
+    - name: IMG_5081.jpg
+      ori: v
+- id: 20230914dwingelderveld
+  description: Dwingelderveld 14.09.2023
+  imagefolder: /photos/2023-09-14-dwingelderveld
+  images:
+    - name: IMG_5048.jpg
+      ori: v
+    - name: IMG_5045.jpg
+      ori: v
+    - name: IMG_5034.jpg
+      ori: v
+    - name: IMG_5024.jpg
+      ori: v
+    - name: IMG_5019.jpg
+      ori: v
+    - name: IMG_5016.jpg
+      ori: v
+- id: 20230910havelte
+  description: Havelte 10.09.2023
+  imagefolder: /photos/2023-09-10-havelte
+  images:
+    - name: IMG_5000.jpg
+      ori: v
+- id: 20230904aekingerzand
+  description: Aekingerzand 04.09.2023
+  imagefolder: /photos/2023-09-04-aekingerzand
+  images:
+    - name: IMG_4992.jpg
+      ori: v
+    - name: IMG_4988.jpg
+      ori: v
+    - name: IMG_4985.jpg
+      ori: v
+    - name: IMG_4983.jpg
+      ori: v
+    - name: IMG_4980.jpg
+      ori: h
+    - name: IMG_4979.jpg
+      ori: v
+    - name: IMG_4977.jpg
+      ori: v
+    - name: IMG_4975.jpg
+      ori: v
+    - name: IMG_4973.jpg
+      ori: v
+    - name: IMG_4963.jpg
+      ori: h
+    - name: IMG_4961.jpg
+      ori: v
+    - name: IMG_4960.jpg
+      ori: v
+    - name: IMG_4955.jpg
+      ori: v
+    - name: IMG_4943.jpg
+      ori: h
+    - name: IMG_4941.jpg
+      ori: v
+    - name: IMG_4939.jpg
+      ori: v
+    - name: IMG_4934.jpg
+      ori: v
+    - name: IMG_4899.jpg
+      ori: v
+    - name: IMG_4897.jpg
+      ori: v
 - id: 20230820zoebingen
   description: Zöbingen 20.08.2023
   imagefolder: /photos/2023-08-20-zoebingen
