@@ -1,3 +1,9 @@
+- id: 20240122zoebingen
+  description: Zöbingen 22.01.2024
+  imagefolder: /photos/2024-01-22-zoebingen
+  images:
+    - name: IMG_5208.jpg
+      ori: v
 - id: 20240112zoebingen
   description: Zöbingen 12.01.2024
   imagefolder: /photos/2024-01-12-zoebingen
