@@ -1,3 +1,17 @@
+- id: 20240209zoebingen
+  description: Zöbingen 09.02.2024
+  imagefolder: /photos/2024-02-09-zoebingen
+  images:
+    - name: IMG_5221.jpg
+      ori: v
+    - name: IMG_5219.jpg
+      ori: v
+    - name: IMG_5211.jpg
+      ori: v
+    - name: IMG_5210-2.jpg
+      ori: v
+    - name: IMG_5210-1.jpg
+      ori: v
 - id: 20240122zoebingen
   description: Zöbingen 22.01.2024
   imagefolder: /photos/2024-01-22-zoebingen
