@@ -1,3 +1,11 @@
+- id: 20240616clouds
+  description: Zöbingen 16.06.2024
+  imagefolder: /art/2024-06-16-zoebingen
+  images:
+    - name: IMG_5226.jpg
+    - name: IMG_5224.jpg
+    - name: IMG_5223.jpg
+    - name: IMG_5222.jpg
 - id: 20190615stars
   description: Monteferro 20.04.2019
   imagefolder: /art/2019-04-20-monteferro
