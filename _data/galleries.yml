@@ -1,3 +1,9 @@
+- id: 20250504ebersberg
+  description: Ebersberg 04.05.2025
+  imagefolder: /photos/2025-05-04-ebersberg
+  images:
+    - name: P1130604.jpg
+      ori: v
 - id: 20240209zoebingen
   description: Zöbingen 09.02.2024
   imagefolder: /photos/2024-02-09-zoebingen

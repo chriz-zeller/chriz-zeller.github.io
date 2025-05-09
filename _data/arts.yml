@@ -1,3 +1,9 @@
+- id: 20250504walls
+  description: Ebersberg 04.05.2025
+  imagefolder: /art/2025-05-04-ebersberg
+  images:
+    - name: P1130594.jpg
+    - name: P1130598.jpg
 - id: 20240616clouds
   description: Zöbingen 16.06.2024
   imagefolder: /art/2024-06-16-zoebingen
