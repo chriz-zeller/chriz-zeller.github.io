@@ -1,3 +1,73 @@
+- id: 20250704zoebingen
+  description: Zöbingen 04.07.2025
+  imagefolder: /photos/2025-07-04-zoebingen
+  images:
+    - name: IMG_5317.jpg
+      ori: v
+    - name: IMG_5324-0.jpg
+      ori: v
+    - name: IMG_5324-1.jpg
+      ori: v
+    - name: IMG_5340.jpg
+      ori: v
+    - name: IMG_5341.jpg
+      ori: v
+    - name: IMG_5342.jpg
+      ori: v
+    - name: IMG_5356.jpg
+      ori: v
+    - name: IMG_5357.jpg
+      ori: v
+    - name: IMG_5363.jpg
+      ori: v
+    - name: IMG_5364.jpg
+      ori: v
+    - name: IMG_5369.jpg
+      ori: v
+    - name: IMG_5371.jpg
+      ori: v
+    - name: IMG_5374.jpg
+      ori: v
+    - name: IMG_5376.jpg
+      ori: v
+    - name: IMG_5378.jpg
+      ori: v
+    - name: IMG_5385.jpg
+      ori: v
+    - name: IMG_5386.jpg
+      ori: v
+    - name: IMG_5393.jpg
+      ori: v
+    - name: IMG_5396.jpg
+      ori: v
+    - name: IMG_5398.jpg
+      ori: v
+    - name: IMG_5425.jpg
+      ori: v
+    - name: IMG_5429.jpg
+      ori: v
+    - name: IMG_5431.jpg
+      ori: v
+    - name: IMG_5433.jpg
+      ori: v
+    - name: IMG_5435.jpg
+      ori: v
+    - name: IMG_5441.jpg
+      ori: v
+    - name: IMG_5443.jpg
+      ori: v
+    - name: IMG_5444.jpg
+      ori: v
+    - name: IMG_5447.jpg
+      ori: v
+    - name: IMG_5449.jpg
+      ori: v
+- id: 20250609zuerichsee
+  description: Zürichsee 09.06.2025
+  imagefolder: /photos/2025-06-09-zuerichsee
+  images:
+    - name: IMG_5229.jpg
+      ori: v
 - id: 20250504ebersberg
   description: Ebersberg 04.05.2025
   imagefolder: /photos/2025-05-04-ebersberg

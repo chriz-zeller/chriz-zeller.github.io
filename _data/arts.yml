@@ -1,3 +1,8 @@
+- id: 20250704flowers
+  description: Zöbingen 04.07.2025
+  imagefolder: /art/2025-07-04-zoebingen
+  images:
+    - name: IMG_5317-colours.jpg
 - id: 20250504walls
   description: Ebersberg 04.05.2025
   imagefolder: /art/2025-05-04-ebersberg
