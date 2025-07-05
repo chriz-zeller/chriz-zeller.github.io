@@ -62,6 +62,36 @@
       ori: v
     - name: IMG_5449.jpg
       ori: v
+- id: 20250617hohenlinden
+  description: Hohenlinden 17.06.2025
+  imagefolder: /photos/2025-06-17-hohenlinden
+  images:
+    - name: IMG_5261.jpg
+      ori: v
+    - name: IMG_5263.jpg
+      ori: v
+    - name: IMG_5269.jpg
+      ori: v
+    - name: IMG_5289.jpg
+      ori: v
+- id: 20250615wasserburgaminn
+  description: Wasserburg am Inn 15.06.2025
+  imagefolder: /photos/2025-06-15-wasserburg-am-inn
+  images:
+    - name: IMG_5245.jpg
+      ori: v
+    - name: IMG_5246.jpg
+      ori: v
+    - name: IMG_5250.jpg
+      ori: v
+    - name: IMG_5252.jpg
+      ori: v
+    - name: IMG_5254.jpg
+      ori: v
+    - name: IMG_5256.jpg
+      ori: v
+    - name: IMG_5259.jpg
+      ori: v
 - id: 20250609zuerichsee
   description: Zürichsee 09.06.2025
   imagefolder: /photos/2025-06-09-zuerichsee
