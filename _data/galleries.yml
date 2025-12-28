@@ -1,3 +1,17 @@
+- id: 20251228zoebingen
+  description: Zöbingen 28.12.2025
+  imagefolder: /photos/2025-12-28-zoebingen
+  images:
+    - name: IMG_5474.jpg
+      ori: h
+    - name: IMG_5473.jpg
+      ori: v
+    - name: IMG_5463.jpg
+      ori: v
+    - name: IMG_5459.jpg
+      ori: h
+    - name: IMG_5454.jpg
+      ori: v
 - id: 20250704zoebingen
   description: Zöbingen 04.07.2025
   imagefolder: /photos/2025-07-04-zoebingen
