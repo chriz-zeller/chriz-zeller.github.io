@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <link rel="stylesheet" href="../../css/art-gallery.css">
+</head>
+<body>
+
+{% assign numId = 0 %}
+{% for art in site.data.arts %}
+<div class="container">
+   {% for image in art.images %}
+   <div class="{{ numId }}-images">
+     <img src="{{ art.imagefolder }}/{{ image.name }}" style="width:100%">
+   </div>
+   {% endfor %}
+   <a class="prev" onclick="plusSlides({{ numId }}, -1)">❮</a>
+   <a class="next" onclick="plusSlides({{ numId }},  1)">❯</a>
+
+   <div class="row">
+     {% assign count_img = 1 %}
+     {% for image in art.images %}
+     <div class="column">
+       <img class="{{numId}}-demo cursor" src="{{ art.imagefolder }}/{{ image.name }}" style="width:100%" onclick="currentSlide({{ numId }}, {{ count_img }})">
+     </div>
+     {% assign count_img = count_img | plus: 1 %}
+     {% endfor %}
+   </div>
+{% assign numId = numId | plus: 1 %}
+</div>
+{% endfor %}
+
+<script src="../../js/art-gallery.js"> </script>
+<script>
+  initPage({{ numId }});
+</script>
+
+</body>
+</html>

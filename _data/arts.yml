@@ -1,0 +1,37 @@
+- id: 20250704
+  description: 04.07.2025
+  imagefolder: /art/2025-07-04
+  images:
+    - name: IMG_5317-colours.jpg
+- id: 20250504
+  description: 04.05.2025
+  imagefolder: /art/2025-05-04
+  images:
+    - name: P1130594.jpg
+    - name: P1130598.jpg
+- id: 20240616
+  description: 16.06.2024
+  imagefolder: /art/2024-06-16
+  images:
+    - name: IMG_5226.jpg
+    - name: IMG_5224.jpg
+    - name: IMG_5223.jpg
+    - name: IMG_5222.jpg
+- id: 20190615
+  description: 20.04.2019
+  imagefolder: /art/2019-04-20
+  images:
+    - name: IMG_2073-0.jpg
+    - name: IMG_2073-2.jpg
+    - name: IMG_2073-3.jpg
+    - name: IMG_2073-4.jpg
+    - name: IMG_2073-5.jpg
+    - name: IMG_2073-6.jpg
+    - name: IMG_2073-7.jpg
+    - name: IMG_2073-8.jpg
+- id: 20190615
+  description: 20.04.2019
+  imagefolder: /art/2019-04-20
+  images:
+    - name: IMG_2073-0.jpg
+    - name: IMG_2073-1.jpg

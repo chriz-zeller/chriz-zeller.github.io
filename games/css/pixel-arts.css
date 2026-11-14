@@ -1,0 +1,55 @@
+/*
+ * Copyright:
+ *   2021 - Christina Zeller - All Rights Reserved.
+ */
+
+body {
+  background-color: rgb(34, 34, 34);
+  color: rgb(221, 221, 221);
+  font-family: dancing, noto;
+  font-size: large;
+}
+
+@font-face {
+  font-family: "dancing";
+  src: url("../fonts/lobstertwo.ttf");
+}
+
+@font-face {
+  font-family: "noto";
+  src: url("../fonts/noto.ttf");
+}
+
+a:hover {
+  color: #1756a9;
+}
+
+a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+
+/* Game */
+
+table {
+  border-collapse: collapse;
+}
+
+button {
+  background: transparent;
+  color: rgb(221, 221, 221);
+  border-radius: 6px;
+  font-family: dancing, noto;
+  cursor: pointer;
+}
+
+input[type=number]{
+  width: 5em;
+}
+
+/* Page */
+
+footer {
+  position: fixed;
+  bottom: 0;
+}

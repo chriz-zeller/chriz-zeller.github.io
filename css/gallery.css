@@ -1,0 +1,82 @@
+/* Photos preview */
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  grid-gap: 5px;
+  align-items: center;
+  }
+
+.grid img {
+  max-width: 100%;
+}
+
+.grid img:hover,
+.grid img:focus {
+  cursor: pointer;
+}
+
+/* The Modal (background) */
+
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 0%;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: black;
+}
+
+/* Horizontal Modal Content */
+.modal-content-horizontal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  height: 98%;
+  max-height: 98vh;
+  width: auto;
+}
+
+/* Vertical Modal Content */
+.modal-content-vertical {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  width: 98%;
+  max-width: 98vh;
+  height: auto;
+}
+
+.modal-content-horizontal:hover,
+.modal-content-horizontal:focus {
+  cursor: pointer;
+}
+
+.modal-content-vertical:hover,
+.modal-content-vertical:focus {
+  cursor: pointer;
+}
+
+/* The Close Button */
+.close {
+  color: #f1f1f1;
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #999;
+  text-decoration: none;
+  cursor: pointer;
+}

@@ -1,0 +1,790 @@
+- id: 20261114
+  description: 14.11.2026
+  imagefolder: /photos/2026-11-14
+  images:
+    - name: IMG_5580.jpg
+      ori: v
+    - name: IMG_5578.jpg
+      ori: v
+    - name: IMG_5576.jpg
+      ori: v
+    - name: IMG_5575.jpg
+      ori: h
+    - name: IMG_5572.jpg
+      ori: v
+    - name: IMG_5569.jpg
+      ori: v
+- id: 20261027
+  description: 27.10.2026
+  imagefolder: /photos/2026-10-27
+  images:
+    - name: P1130634-.jpg
+      ori: v
+    - name: P1130631-.jpg
+      ori: v
+    - name: P1130629-.jpg
+      ori: v
+    - name: P1130628-.jpg
+      ori: v
+- id: 20251228
+  description: 28.12.2025
+  imagefolder: /photos/2025-12-28
+  images:
+    - name: IMG_5474.jpg
+      ori: h
+    - name: IMG_5473.jpg
+      ori: v
+    - name: IMG_5463.jpg
+      ori: v
+    - name: IMG_5459.jpg
+      ori: h
+    - name: IMG_5454.jpg
+      ori: v
+- id: 20250704
+  description: 04.07.2025
+  imagefolder: /photos/2025-07-04
+  images:
+    - name: IMG_5317.jpg
+      ori: v
+    - name: IMG_5324-0.jpg
+      ori: v
+    - name: IMG_5324-1.jpg
+      ori: v
+    - name: IMG_5340.jpg
+      ori: v
+    - name: IMG_5341.jpg
+      ori: v
+    - name: IMG_5342.jpg
+      ori: v
+    - name: IMG_5356.jpg
+      ori: v
+    - name: IMG_5357.jpg
+      ori: v
+    - name: IMG_5363.jpg
+      ori: v
+    - name: IMG_5364.jpg
+      ori: v
+    - name: IMG_5369.jpg
+      ori: v
+    - name: IMG_5371.jpg
+      ori: v
+    - name: IMG_5374.jpg
+      ori: v
+    - name: IMG_5376.jpg
+      ori: v
+    - name: IMG_5378.jpg
+      ori: v
+    - name: IMG_5385.jpg
+      ori: v
+    - name: IMG_5386.jpg
+      ori: v
+    - name: IMG_5393.jpg
+      ori: v
+    - name: IMG_5396.jpg
+      ori: v
+    - name: IMG_5398.jpg
+      ori: v
+    - name: IMG_5425.jpg
+      ori: v
+    - name: IMG_5429.jpg
+      ori: v
+    - name: IMG_5431.jpg
+      ori: v
+    - name: IMG_5433.jpg
+      ori: v
+    - name: IMG_5435.jpg
+      ori: v
+    - name: IMG_5441.jpg
+      ori: v
+    - name: IMG_5443.jpg
+      ori: v
+    - name: IMG_5444.jpg
+      ori: v
+    - name: IMG_5447.jpg
+      ori: v
+    - name: IMG_5449.jpg
+      ori: v
+- id: 20250617
+  description: 17.06.2025
+  imagefolder: /photos/2025-06-17
+  images:
+    - name: IMG_5261.jpg
+      ori: v
+    - name: IMG_5263.jpg
+      ori: v
+    - name: IMG_5269.jpg
+      ori: v
+    - name: IMG_5289.jpg
+      ori: v
+- id: 20250615
+  description: 15.06.2025
+  imagefolder: /photos/2025-06-15
+  images:
+    - name: IMG_5245.jpg
+      ori: v
+    - name: IMG_5246.jpg
+      ori: v
+    - name: IMG_5250.jpg
+      ori: v
+    - name: IMG_5252.jpg
+      ori: v
+    - name: IMG_5254.jpg
+      ori: v
+    - name: IMG_5256.jpg
+      ori: v
+    - name: IMG_5259.jpg
+      ori: v
+- id: 20250609
+  description: 09.06.2025
+  imagefolder: /photos/2025-06-09
+  images:
+    - name: IMG_5229.jpg
+      ori: v
+- id: 20250504
+  description: 04.05.2025
+  imagefolder: /photos/2025-05-04
+  images:
+    - name: P1130604.jpg
+      ori: v
+- id: 20240209
+  description: 09.02.2024
+  imagefolder: /photos/2024-02-09
+  images:
+    - name: IMG_5221.jpg
+      ori: v
+    - name: IMG_5219.jpg
+      ori: v
+    - name: IMG_5211.jpg
+      ori: v
+    - name: IMG_5210-2.jpg
+      ori: v
+    - name: IMG_5210-1.jpg
+      ori: v
+- id: 20240122
+  description: 22.01.2024
+  imagefolder: /photos/2024-01-22
+  images:
+    - name: IMG_5208.jpg
+      ori: v
+- id: 20240112
+  description: 12.01.2024
+  imagefolder: /photos/2024-01-12
+  images:
+    - name: IMG_5188.jpg
+      ori: v
+    - name: IMG_5185.jpg
+      ori: v
+    - name: IMG_5183.jpg
+      ori: v
+    - name: IMG_5181.jpg
+      ori: v
+    - name: IMG_5179.jpg
+      ori: v
+    - name: IMG_5176.jpg
+      ori: v
+    - name: IMG_5175.jpg
+      ori: h
+    - name: IMG_5168.jpg
+      ori: v
+    - name: IMG_5166.jpg
+      ori: v
+    - name: IMG_5161.jpg
+      ori: v
+    - name: IMG_5149.jpg
+      ori: h
+    - name: IMG_5148.jpg
+      ori: v
+    - name: IMG_5141.jpg
+      ori: v
+    - name: IMG_5123.jpg
+      ori: v
+    - name: IMG_5106.jpg
+      ori: v
+- id: 20230916
+  description: 16.09.2023
+  imagefolder: /photos/2023-09-16
+  images:
+    - name: IMG_5100.jpg
+      ori: v
+    - name: IMG_5098.jpg
+      ori: v
+    - name: IMG_5083.jpg
+      ori: v
+    - name: IMG_5081.jpg
+      ori: v
+- id: 20230914
+  description: 14.09.2023
+  imagefolder: /photos/2023-09-14
+  images:
+    - name: IMG_5048.jpg
+      ori: v
+    - name: IMG_5045.jpg
+      ori: v
+    - name: IMG_5034.jpg
+      ori: v
+    - name: IMG_5024.jpg
+      ori: v
+    - name: IMG_5019.jpg
+      ori: v
+    - name: IMG_5016.jpg
+      ori: v
+- id: 20230910
+  description: 10.09.2023
+  imagefolder: /photos/2023-09-10
+  images:
+    - name: IMG_5000.jpg
+      ori: v
+- id: 20230904
+  description: 04.09.2023
+  imagefolder: /photos/2023-09-04
+  images:
+    - name: IMG_4992.jpg
+      ori: v
+    - name: IMG_4988.jpg
+      ori: v
+    - name: IMG_4985.jpg
+      ori: v
+    - name: IMG_4983.jpg
+      ori: v
+    - name: IMG_4980.jpg
+      ori: h
+    - name: IMG_4979.jpg
+      ori: v
+    - name: IMG_4977.jpg
+      ori: v
+    - name: IMG_4975.jpg
+      ori: v
+    - name: IMG_4973.jpg
+      ori: v
+    - name: IMG_4963.jpg
+      ori: h
+    - name: IMG_4961.jpg
+      ori: v
+    - name: IMG_4960.jpg
+      ori: v
+    - name: IMG_4955.jpg
+      ori: v
+    - name: IMG_4943.jpg
+      ori: h
+    - name: IMG_4941.jpg
+      ori: v
+    - name: IMG_4939.jpg
+      ori: v
+    - name: IMG_4934.jpg
+      ori: v
+    - name: IMG_4899.jpg
+      ori: v
+    - name: IMG_4897.jpg
+      ori: v
+- id: 20230820
+  description: 20.08.2023
+  imagefolder: /photos/2023-08-20
+  images:
+    - name: IMG_4890.jpg
+      ori: v
+    - name: IMG_4886.jpg
+      ori: v
+    - name: IMG_4880.jpg
+      ori: v
+    - name: IMG_4876.jpg
+      ori: v
+    - name: IMG_4874.jpg
+      ori: v
+    - name: IMG_4871.jpg
+      ori: v
+    - name: IMG_4870.jpg
+      ori: v
+    - name: IMG_4869.jpg
+      ori: v
+    - name: IMG_4868.jpg
+      ori: v
+    - name: IMG_4866.jpg
+      ori: v
+    - name: IMG_4864.jpg
+      ori: v
+    - name: IMG_4862.jpg
+      ori: v
+    - name: IMG_4860.jpg
+      ori: h
+    - name: IMG_4855.jpg
+      ori: h
+    - name: IMG_4854.jpg
+      ori: v
+    - name: IMG_4851.jpg
+      ori: v
+    - name: IMG_4849.jpg
+      ori: v
+    - name: IMG_4843.jpg
+      ori: v
+    - name: IMG_4841.jpg
+      ori: v
+- id: 20230527
+  description: 27.05.2023
+  imagefolder: /photos/2023-05-27
+  images:
+    - name: IMG_4835.jpg
+      ori: v
+    - name: IMG_4833.jpg
+      ori: v
+    - name: IMG_4831.jpg
+      ori: h
+    - name: IMG_4830.jpg
+      ori: h
+    - name: IMG_4828.jpg
+      ori: v
+    - name: IMG_4821.jpg
+      ori: v
+    - name: IMG_4818.jpg
+      ori: v
+    - name: IMG_4805.jpg
+      ori: v
+    - name: IMG_4804.jpg
+      ori: v
+- id: 20230430
+  description: 30.04.2023
+  imagefolder: /photos/2023-04-30
+  images:
+    - name: IMG_4798.jpg
+      ori: v
+    - name: IMG_4779.jpg
+      ori: v
+    - name: IMG_4772-1.jpg
+      ori: v
+    - name: IMG_4772.jpg
+      ori: v
+    - name: IMG_4758.jpg
+      ori: v
+- id: 20220509
+  description: 09.05.2022
+  imagefolder: /photos/2022-05-09
+  images:
+    - name: IMG_4688.jpg
+      ori: h
+    - name: IMG_4696.jpg
+      ori: v
+    - name: IMG_4714-0.jpg
+      ori: v
+    - name: IMG_4714.jpg
+      ori: v
+- id: 20220508
+  description: 08.05.2022
+  imagefolder: /photos/2022-05-08
+  images:
+    - name: IMG_4678.jpg
+      ori: h
+    - name: IMG_4674.jpg
+      ori: v
+- id: 20220507
+  description: 07.05.2022
+  imagefolder: /photos/2022-05-07
+  images:
+    - name: IMG_4660.jpg
+      ori: v
+    - name: IMG_4643.jpg
+      ori: v
+    - name: IMG_4636.jpg
+      ori: v
+- id: 20220402
+  description: 02.04.2022
+  imagefolder: /photos/2022-04-02
+  images:
+    - name: IMG_4616.jpg
+      ori: v
+    - name: IMG_4613.jpg
+      ori: v
+    - name: IMG_4592.jpg
+      ori: v
+    - name: IMG_4580.jpg
+      ori: v
+    - name: IMG_4577.jpg
+      ori: v
+    - name: IMG_4576.jpg
+      ori: v
+    - name: IMG_4573.jpg
+      ori: v
+    - name: IMG_4568-1.jpg
+      ori: v
+    - name: IMG_4568.jpg
+      ori: h
+    - name: IMG_4567.jpg
+      ori: v
+    - name: IMG_4563.jpg
+      ori: v
+    - name: IMG_4562.jpg
+      ori: v
+    - name: IMG_4560.jpg
+      ori: v
+    - name: IMG_4549.jpg
+      ori: v
+    - name: IMG_4548.jpg
+      ori: v
+    - name: IMG_4547.jpg
+      ori: v
+    - name: IMG_4545.jpg
+      ori: v
+    - name: IMG_4543.jpg
+      ori: v
+    - name: IMG_4542.jpg
+      ori: v
+    - name: IMG_4541.jpg
+      ori: v
+    - name: IMG_4540.jpg
+      ori: v
+    - name: IMG_4529.jpg
+      ori: v
+    - name: IMG_4527.jpg
+      ori: v
+    - name: IMG_4524.jpg
+      ori: v
+    - name: IMG_4523.jpg
+      ori: v
+- id: 20220329
+  description: 29.03.2022
+  imagefolder: /photos/2022-03-29
+  images:
+    - name: IMG_4504.jpg
+      ori: v
+    - name: IMG_4501.jpg
+      ori: h
+- id: 20220327
+  description: 27.03.2022
+  imagefolder: /photos/2022-03-27
+  images:
+    - name: IMG_4487.jpg
+      ori: v
+    - name: IMG_4479.jpg
+      ori: v
+    - name: IMG_4477.jpg
+      ori: v
+- id: 20220325
+  description: 25.03.2022
+  imagefolder: /photos/2022-03-25
+  images:
+    - name: IMG_4467.jpg
+      ori: v
+    - name: IMG_4444.jpg
+      ori: h
+    - name: IMG_4431.jpg
+      ori: v
+- id: 20210925
+  description: 25.09.2021
+  imagefolder: /photos/2021-09-25
+  images:
+    - name: IMG_4393.jpg
+      ori: v
+- id: 20210910
+  description: 10.09.2021
+  imagefolder: /photos/2021-09-10
+  images:
+    - name: IMG_4387.jpg
+      ori: v
+    - name: IMG_4376.jpg
+      ori: v
+    - name: IMG_4363.jpg
+      ori: v
+    - name: IMG_4356.jpg
+      ori: v
+    - name: IMG_4344.jpg
+      ori: v
+    - name: IMG_4343.jpg
+      ori: v
+- id: 20210903
+  description: 03.09.2021
+  imagefolder: /photos/2021-09-03
+  images:
+    - name: IMG_4312.jpg
+      ori: v
+    - name: IMG_4314.jpg
+      ori: v
+    - name: IMG_4317.jpg
+      ori: v
+    - name: IMG_4328.jpg
+      ori: v
+- id: 20210619
+  description: 19.06.2021
+  imagefolder: /photos/2021-06-19
+  images:
+    - name: IMG_4299-b.jpg
+      ori: v
+    - name: IMG_4299-a.jpg
+      ori: v
+    - name: IMG_4295.jpg
+      ori: v
+    - name: IMG_4292.jpg
+      ori: h
+    - name: IMG_4288.jpg
+      ori: v
+    - name: IMG_4281.jpg
+      ori: v
+    - name: IMG_4273.jpg
+      ori: v
+    - name: IMG_4263.jpg
+      ori: v
+    - name: IMG_4259.jpg
+      ori: v
+- id: 20210329
+  description: 29.03.2021
+  imagefolder: /photos/2021-03-29
+  images:
+    - name: IMG_4257.jpg
+      ori: h
+    - name: IMG_4250.jpg
+      ori: h
+    - name: IMG_4249.jpg
+      ori: v
+    - name: IMG_4247-zoom.jpg
+      ori: v
+    - name: IMG_4247.jpg
+      ori: v
+    - name: IMG_4246.jpg
+      ori: v
+    - name: IMG_4242.jpg
+      ori: v
+    - name: IMG_4230-zoom.jpg
+      ori: v
+    - name: IMG_4230.jpg
+      ori: v
+- id: 20210213
+  description: 13.02.2021
+  imagefolder: /photos/2021-02-13
+  images:
+    - name: IMG_4223.jpg
+      ori: h
+    - name: IMG_4220.jpg
+      ori: v
+    - name: IMG_4218.jpg
+      ori: v
+    - name: IMG_4217.jpg
+      ori: v
+    - name: IMG_4202.jpg
+      ori: h
+    - name: IMG_4197.jpg
+      ori: h
+    - name: IMG_4193.jpg
+      ori: h
+    - name: IMG_4192.jpg
+      ori: v
+    - name: IMG_4190.jpg
+      ori: h
+    - name: IMG_4181.jpg
+      ori: h
+- id: 20210212
+  description: 12.02.2021
+  imagefolder: /photos/2021-02-12
+  images:
+    - name: IMG_4166.jpg
+      ori: v
+    - name: IMG_4154.jpg
+      ori: v
+    - name: IMG_4130.jpg
+      ori: v
+    - name: IMG_4128.jpg
+      ori: v
+    - name: IMG_4119.jpg
+      ori: v
+- id: 20200802
+  description: 02.08.2020
+  imagefolder: /photos/2020-08-02
+  images:
+    - name: IMG_4071.jpg
+      ori: v
+- id: 20200725
+  description: 25.07.2020
+  imagefolder: /photos/2020-07-25
+  images:
+    - name: IMG_4010.jpg
+      ori: v
+    - name: IMG_3958.jpg
+      ori: v
+    - name: IMG_3955.jpg
+      ori: h
+    - name: IMG_4043.jpg
+      ori: v
+- id: 20200712
+  description: 12.07.2020
+  imagefolder: /photos/2020-07-12
+  images:
+    - name: IMG_3848.jpg
+      ori: v
+    - name: IMG_3829.jpg
+      ori: v
+    - name: IMG_3835.jpg
+      ori: v
+    - name: IMG_3832.jpg
+      ori: v
+    - name: IMG_3827.jpg
+      ori: v
+    - name: IMG_3807.jpg
+      ori: v
+    - name: IMG_3818.jpg
+      ori: v
+- id: 20200709
+  description: 09.07.2020
+  imagefolder: /photos/2020-07-09
+  images:
+    - name: IMG_3798.jpg
+      ori: v
+    - name: IMG_3792.jpg
+      ori: v
+- id: 20200707
+  description: 07.07.2020
+  imagefolder: /photos/2020-07-07
+  images:
+    - name: IMG_3763.jpg
+      ori: v
+    - name: IMG_3768.jpg
+      ori: v
+- id: 20200702
+  description: 02.07.2020
+  imagefolder: /photos/2020-07-02
+  images:
+    - name: IMG_3650.jpg
+      ori: v
+- id: 20200215
+  description: 15.02.2020
+  imagefolder: /photos/2020-02-15
+  images:
+    - name: IMG_3271.jpg
+      ori: v
+- id: 20190831
+  description: 31.08.2019
+  imagefolder: /photos/2019-08-31
+  images:
+    - name: IMG_3222.jpg
+      ori: v
+- id: 20190828
+  description: 28.08.2019
+  imagefolder: /photos/2019-08-28
+  images:
+    - name: IMG_3178.jpg
+      ori: v
+- id: 20190824
+  description: 24.08.2019
+  imagefolder: /photos/2019-08-24
+  images:
+    - name: IMG_3089.jpg
+      ori: v
+- id: 20190731
+  description: 31.07.2019
+  imagefolder: /photos/2019-07-31
+  images:
+    - name: IMG_3070.jpg
+      ori: v
+- id: 20190716
+  description: 16.07.2019
+  imagefolder: /photos/2019-07-16
+  images:
+    - name: IMG_2702.jpg
+      ori: v
+- id: 20190615
+  description: 15.06.2019
+  imagefolder: /photos/2019-06-15
+  images:
+    - name: IMG_2625.jpg
+      ori: v
+    - name: IMG_2555.jpg
+      ori: v
+    - name: IMG_2547.jpg
+      ori: h
+- id: 20190523
+  description: 23.05.2019
+  imagefolder: /photos/2019-05-23
+  images:
+    - name: IMG_2523.jpg
+      ori: v
+    - name: IMG_2484.jpg
+      ori: v
+- id: 20190522
+  description: 22.05.2019
+  imagefolder: /photos/2019-05-22
+  images:
+    - name: IMG_2440.jpg
+      ori: h
+- id: 20190427
+  description: 27.04.2019
+  imagefolder: /photos/2019-04-27
+  images:
+    - name: IMG_2174.jpg
+      ori: v
+- id: 20190426
+  description: 26.04.2019
+  imagefolder: /photos/2019-04-26
+  images:
+    - name: IMG_2146.jpg
+      ori: h
+- id: 20190423
+  description: 23.04.2019
+  imagefolder: /photos/2019-04-23
+  images:
+    - name: IMG_2077.jpg
+      ori: v
+- id: 20190417
+  description: 17.04.2019
+  imagefolder: /photos/2019-04-17
+  images:
+    - name: IMG_1933.jpg
+      ori: v
+- id: 20190405
+  description: 06.04.2019
+  imagefolder: /photos/2019-04-06
+  images:
+  - name: IMG_1584.jpg
+    ori: v
+- id: 20190405
+  description: 05.04.2019
+  imagefolder: /photos/2019-04-05
+  images:
+  - name: IMG_1513.jpg
+    ori: v
+- id: 20190323
+  description: 23.03.2019
+  imagefolder: /photos/2019-03-23
+  images:
+  - name: IMG_1483.jpg
+    ori: h
+  - name: IMG_1487.jpg
+    ori: h
+- id: 20190315
+  description: 15.03.2019
+  imagefolder: /photos/2019-03-15
+  images:
+  - name: IMG_1269.jpg
+    ori: v
+- id: 20190227
+  description: 27.02.2019
+  imagefolder: /photos/2019-02-27
+  images:
+  - name: IMG_0997.JPG
+    ori: h
+- id: 20190223
+  description: 23.02.2019
+  imagefolder: /photos/2019-02-23
+  images:
+  - name: IMG_0901.jpg
+    ori: v
+  - name: IMG_0950.jpg
+    ori: v
+  - name: IMG_0957.jpg
+    ori: v
+  - name: IMG_0959.jpg
+    ori: h
+  - name: IMG_0950-bw.jpg
+    ori: v
+- id: 20190211
+  description: 11.02.2019
+  imagefolder: /photos/2019-02-11
+  images:
+  - name: sunset.jpg
+    ori: h
+- id: 20181008
+  description: 08.10.2018
+  imagefolder: /photos/2018-10-08
+  images:
+  - name: IMG_20181008.jpg
+    ori: v
+- id: 20180726
+  description: 26.07.2018
+  imagefolder: /photos/2018-07-26
+  images:
+  - name: IMG_20180726.jpg
+    ori: v

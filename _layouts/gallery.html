@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <link rel="stylesheet" href="../../css/gallery.css">
+</head>
+<body>
+
+<section class="grid">
+{% for gallery in site.data.galleries %}
+   {% for image in gallery.images %}
+   <img loading="lazy" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="openModal();currentSlide({% decrement img_i %})" class="hover-shadow cursor">
+   {% endfor %}
+{% endfor %}
+</section>
+
+<div id="myModal" class="modal">
+  <div>
+  {% for gallery in site.data.galleries %}
+    {% for image in gallery.images %}
+    <div class="mySlides"><center>
+      {% if image.ori == 'h' %}
+      <img loading="lazy" class="modal-content-horizontal" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
+      {% endif %}
+      {% if image.ori == 'v' %}
+      <img loading="lazy" class="modal-content-vertical" src="{{ gallery.imagefolder }}/{{ image.name }}" onclick="plusSlides(1)">
+      {% endif %}
+      </center></div>
+    {% endfor %}
+    </div>
+    <span class="close cursor" onclick="closeModal()">&times;</span>
+    <div>
+  {% endfor %}
+  </div>
+</div>
+
+<script src="../../js/gallery.js"> </script>
+
+</body>
+</html>
